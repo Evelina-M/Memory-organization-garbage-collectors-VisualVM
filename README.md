@@ -53,6 +53,7 @@ BUILD SUCCESSFUL in 55s
 18:07:01: Task execution finished 'JvmExperience.main()'.
 ```
 ![](ExploringJVMThroughVisualVM/screenshots/13.png)
+
 Программа завершила работу.
 
 
