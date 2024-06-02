@@ -1,0 +1,21 @@
+plugins {
+    id 'java'
+}
+
+group = 'org.example'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation("org.reflections:reflections:0.9.12")
+
+    implementation group: 'org.springframework', name: 'spring-core', version: '5.2.7.RELEASE'
+    implementation group: 'io.vertx', name: 'vertx-core', version: '3.9.2'
+}
+
+test {
+    useJUnitPlatform()
+}
