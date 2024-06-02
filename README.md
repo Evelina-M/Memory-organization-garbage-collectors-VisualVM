@@ -17,7 +17,7 @@ Please open 'ru.netology.JvmExperience' in VisualVm
 18:06:40.843174800: loaded 529 classes
 ```
 
-![](screenshots/1.png)![](screenshots/2.png)![](screenshots/3.png)
+![](ExploringJVMThroughVisualVM/screenshots/1.png)![](ExploringJVMThroughVisualVM/screenshots/2.png)![](ExploringJVMThroughVisualVM/screenshots/3.png)
 
 ```
 18:06:43.851698700: loading io.netty
